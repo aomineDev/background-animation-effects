@@ -37,10 +37,10 @@ section h2 {
   display: block;
   width: 5vw;
   height: 5vh;
-  background-image: url("https://images.unsplash.com/photo-1610641987870-d6d8998274a4?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDk0fGJvOGpRS1RhRTBZfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1440&q=60");
+  background-image: url("https://images.unsplash.com/photo-1611424564067-12d778fc6c22?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NXx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1440&q=60");
   background-attachment: fixed;
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   opacity: 0;
   animation: animate 0.75s ease-in-out forwards;
 }
